@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.incompanyin.ajc07</string>
+				<string>com.incompanyin.aja01</string>
 				<key>bundle-version</key>
-				<string>3.5.0</string>
+				<string>3.1.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>AJ_C07</string>
+				<string>AJ_A01</string>
 			</dict>
 		</dict>
 	</array>
