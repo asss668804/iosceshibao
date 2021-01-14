@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://media.githubusercontent.com/media/annir122/iosceshi/master/AJ_A01.ipa</string>
+					<string>https://cdn-global.tmp.link:616/file2/kyT/+wF9HZbEJ9eS0PAOamXYGyc=/AJ_A01.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.incompanyin.aja01</string>
 				<key>bundle-version</key>
-				<string>3.1.9</string>
+				<string>3.2.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
