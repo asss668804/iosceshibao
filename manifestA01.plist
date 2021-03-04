@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.incompanyin.aja01</string>
 				<key>bundle-version</key>
-				<string>3.2.4</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>AJ_A01</string>
+				<string>testDemo</string>
 			</dict>
 		</dict>
 	</array>
