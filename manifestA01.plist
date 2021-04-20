@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cdn-global.tmp.link:616/file2/kyT/+wF9HZbEJ9eS0PAOamXYGyc=/AJ_A01%20.ipa</string>
+					<string>https://raw.githubusercontent.com/asss668804/iosceshibao/master/QJ_Q01a.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>testDemo</string>
+				<string>QJ_Q01a</string>
 			</dict>
 		</dict>
 	</array>
