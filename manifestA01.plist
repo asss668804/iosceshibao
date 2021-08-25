@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/asss668804/iosceshibao/master/QJ_Q01a.ipa</string>
+					<string>https://fv2-3.failiem.lv/down.php?i=99watg9jg&amp;download_checksum=5ff5620a0d566def20d015b26bde3bae8b39c871&amp;download_timestamp=1629868738</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.incompanyin.aja01</string>
 				<key>bundle-version</key>
-				<string>3.5.5</string>
+				<string>3.7.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
