@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://fv1-2.failiem.lv/down.php?i=n7tjcdxcg</string>
+					<string>https://fv2-2.failiem.lv/down.php?i=9hsu8mm25</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.incompanyin.aja01</string>
 				<key>bundle-version</key>
-				<string>3.7.5</string>
+				<string>5.8.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
